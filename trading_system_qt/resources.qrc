@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="TradeWidget.qml">Trading_System/TradeWidget.qml</file>
+        <file alias="ExecutionWidget.qml">Trading_System/ExecutionWidget.qml</file>
+        <file>Charting_System/ChartWidget.qml</file>
+        <file>Chat_AI/ChatAIWidget.qml</file>
+        <file>Account_System/TradeHistoryWidget.qml</file>
+        <file>Account_System/Account.qml</file>
+    </qresource>
+</RCC>
