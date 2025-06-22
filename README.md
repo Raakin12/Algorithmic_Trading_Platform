@@ -58,13 +58,12 @@ I’m the kind of candidate who keeps building after everyone else logs off. Ide
                          ▼                                             | 
           ┌──────────────────────────────────────────┐                 |
           │             Application                  │◄────────────────┘
-          │  - WebSocket Clients                     │             
-          │  - Rest Clients                          │             
-          │  - DB Adapters                           │             
+          │  - Controllers                           │             
+          │  - Command Handlers                      │                                                  
           └──────────────┬───────────────────────────┘             
                          |
-						 |
-						 ▼                                        
+		         |
+			 ▼                                        
                     ┌───────┐                                    
                     │  UI   │                                    
                     └───────┘                                    
