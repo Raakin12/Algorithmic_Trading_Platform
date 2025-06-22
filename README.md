@@ -115,7 +115,7 @@ docker run -d \
   --network trading_network \
   --restart unless-stopped \
   -p 8000:8000 \
-  docker pull raakin12/trading_cloud:latest
+  raakin12/trading_cloud:latest
 
 # Start the Qt GUI trading system
 docker run -it \
@@ -124,6 +124,5 @@ docker run -it \
   --restart unless-stopped \
   -e DISPLAY=$DISPLAY \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
-  -v /path/on/host/Docs:/workspace/Documents \
   raakin12/trading_system:latest
 ~~~
