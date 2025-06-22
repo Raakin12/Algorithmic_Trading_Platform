@@ -62,7 +62,7 @@ I’m the kind of candidate who keeps building after everyone else logs off. Ide
           │  - Command Handlers                      │                                                  
           └──────────────┬───────────────────────────┘             
                          |
-		         |
+		           |
 			 ▼                                        
                     ┌───────┐                                    
                     │  UI   │                                    
