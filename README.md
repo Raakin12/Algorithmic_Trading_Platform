@@ -74,7 +74,7 @@ I’m the kind of candidate who keeps building after everyone else logs off. Ide
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/33d28Iv1PHs)
+[▶ Watch the demo on YouTube](https://youtu.be/33d28Iv1PHs)
 
 Click the thumbnail above to watch a full walk-through of the workstation in action.
 
